@@ -1,7 +1,7 @@
-# republikbobotoh
+# Tridinews
 check dat
 
-# Republik bobotoh
+# Tridinews
 list baca juga di click berita terbaru, `1` `progress` create modal list all title and search
 katalog local semi commerce `2`
 hapus kata 
