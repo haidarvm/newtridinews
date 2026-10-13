@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+public/assets/uploads/
+vendor
+*.log
+/logs
+.env
+composer.lock
+task/node_modules/

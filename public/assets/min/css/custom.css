@@ -1,0 +1,79 @@
+.content {
+    font-size: 16px;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
+
+p          { white-space: pre-wrap; }
+pre        { white-space: pre-wrap; }
+
+.trumbowyg-box .trumbowyg-editor {
+  margin: 0 auto;
+  white-space: pre-wrap;
+  font-family: Arial;
+  
+}
+strong, b {
+  font-weight: bold !important;
+}
+/** {
+   font-size: 100%;
+  font-family: Arial;
+ } */
+
+.topbar .navbar-header {
+  background: #06acb9;
+  box-shadow: 4px -4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.table > tbody > tr > td {
+  padding: 5px;
+}
+
+.table th img, .table td img {
+  border-radius: 2%;
+}
+
+.navbar .navbar-brand-wrapper .navbar-brand img {
+  height: auto;
+}
+
+.navbar .navbar-brand-wrapper .navbar-brand.brand-logo-mini img {
+  height: auto;
+}
+
+.main-panel {
+  width: 100%;
+}
+
+.content-wrapper {
+  /* padding:2rem 0; */
+}
+
+.card .card-body {
+  padding: 10px;
+}
+
+.content-wrapper {
+  padding: 10px;
+}
+
+
+@media screen and (max-width:600px) {
+  .card .card-body {
+    padding: 0;
+  }
+  
+  .content-wrapper {
+    padding: 0;
+  }
+  .form-group label {
+    padding-left: 10px;
+  }
+  .form-control {
+    padding:5px;
+  }
+}
