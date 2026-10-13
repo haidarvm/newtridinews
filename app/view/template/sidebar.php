@@ -76,14 +76,6 @@
                     </div>
                 </div>
             </aside>
-            <div class="lazy-widget" data-url="/lazy/teras">
-                <div class="placeholder">Memuat Teras...</div>
-            </div>
-        </div>
-        <div class="mb-3">
-            <div class="lazy-widget" data-url="/lazy/bobotoh">
-                <div class="placeholder">Memuat Bobotoh...</div>
-            </div>
         </div>
     </aside>
 
